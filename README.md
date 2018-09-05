@@ -7,8 +7,9 @@ That test's questions are below.
 
 ## The challenge
 
-Answering the test quesitons is one challenge. You can get the answers from this repo.
+Answering the test questions is one challenge. You can get the answers from this repo.
 The main challenge though, is to work out the key `k` missing from the program, which will make it output the answers for you.
+So make sure you have the right answers from ansers.json before starting that!
 
 And remember, it's a paper challenge - using a computer to doublecheck those little details of how Node behaves is cheating!
 
